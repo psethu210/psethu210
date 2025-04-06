@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @psethu210
-- 👀 I’m interested in Java Spring, React and C#. I have also 
+- 👀 I’m interested in Java Spring, React and C#.
 - 💞️ I’m looking to collaborate on any open source projects involving Java Spring, React and C#
 - 📫 How to reach me: psethu210@hotmail.com
 
